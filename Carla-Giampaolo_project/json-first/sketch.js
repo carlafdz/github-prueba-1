@@ -1,0 +1,1 @@
+// https://stackoverflow.com/questions/19706046/how-to-read-an-external-local-json-file-in-javascript

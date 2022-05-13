@@ -1,0 +1,30 @@
+body{
+	font-family: sans-serif;
+    margin: 0;
+}
+
+.page{
+    max-width: 900px;
+	margin: 0 auto;
+    background-color: aqua;
+}
+
+.clear{
+	clear: both;
+}
+
+.p5visualisation {
+    width: 400px;
+    height: 700px;
+    background-color: darkslategray;
+}
+
+footer p{
+	text-align: center;
+	font-style: italic;
+    margin: 0;
+}
+
+.title {
+    margin: 0;
+}
